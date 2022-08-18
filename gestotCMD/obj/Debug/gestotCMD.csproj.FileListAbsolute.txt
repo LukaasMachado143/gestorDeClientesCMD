@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\bin\Debug\gestotCMD.exe.config
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\bin\Debug\gestotCMD.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\bin\Debug\gestotCMD.pdb
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\obj\Debug\gestotCMD.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\obj\Debug\gestotCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\obj\Debug\gestotCMD.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\obj\Debug\gestotCMD.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\gestorDeClientesCMD\gestotCMD\obj\Debug\gestotCMD.pdb
